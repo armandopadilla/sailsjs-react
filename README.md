@@ -1,3 +1,2 @@
-# sails-react
-
-a [Sails](http://sailsjs.org) application
+# sailsjs-react
+SailsJS + React base project
